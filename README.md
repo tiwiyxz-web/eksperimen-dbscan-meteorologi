@@ -124,19 +124,15 @@ Melakukan perbandingan hasil setiap skenario, menghitung perubahan terhadap base
 eksperimen-dbscan-meteorologi/
 │
 ├── data/
+│   ├── .gitkeep
 │   └── Filedata_Data_Meteorologi.csv
 │
 ├── hasil_eksperimen/
-│   ├── tabel3_contoh_hasil_agregasi.csv
-│   ├── evaluasi_per_stasiun.csv
-│   ├── evaluasi_per_skenario.csv
-│   ├── delta_vs_baseline.csv
-│   └── profil_cluster_[skenario].csv
 │
 ├── Eksperimen_DBSCAN_Agregasi_Temporal_revisi.ipynb
 ├── requirements.txt
-├── .gitignore
-└── README.md
+├── README.md
+└── .gitignore
 ```
 
 ## 6. Dependensi
